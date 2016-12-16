@@ -4,7 +4,7 @@ title: "Dovolená je tu!"
 date: 2016-12-16
 backgrounds:
     - /assets/posts/1/IMG_0010.JPG
-thumb: /assets/posts/1/IMG_0010.JPG
+thumb: /assets/posts/1/IMG_0010_THUMB.JPG
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porta, felis eget vehicula porttitor, mauris ipsum tincidunt ligula, ac pretium risus sapien at metus. Donec pellentesque volutpat porttitor. Integer condimentum sagittis viverra. Vivamus suscipit quis lectus porta sollicitudin.
