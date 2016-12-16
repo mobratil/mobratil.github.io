@@ -7,11 +7,16 @@ backgrounds:
 thumb: /assets/posts/1/IMG_0010_THUMB.JPG
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porta, felis eget vehicula porttitor, mauris ipsum tincidunt ligula, ac pretium risus sapien at metus. Donec pellentesque volutpat porttitor. Integer condimentum sagittis viverra. Vivamus suscipit quis lectus porta sollicitudin.
-
-Nulla sollicitudin nibh a magna malesuada, vitae dictum tellus mollis. Etiam sit amet justo massa. Integer sed mi volutpat, sollicitudin orci eget, tincidunt tellus. Mauris vitae vestibulum mi.
+Po několikaměsíčním plánování je tu konečně den "L" neboli den dlouhého letu do neznáma až tam, kde se voda ve vaně točí obráceným směrem a na nebi neuvidíte Velký a Malý Vůz, ale Jižní Kříž. Jedeme konečně do toho Kraje, kde dobro vítězí nad zlem. Ne, že by tomu tady bylo jinak, ale tam měli Jeden prsten, který bylo nutné vhodit do Hory osudu, aby bylo zase vše jak má. Byla k tomu zapotřebí celá trilogie filmu Pán prstenů, který byl natočen podle skutečné události. Stejně jako hlavní protagonisti filmu se i my chystáme na velké poznávání a dobrodružství.
 
 ![Sample Image](/assets/posts/1/IMG_0010.JPG)
 
-## Donec imperdiet
-Donec imperdiet accumsan faucibus. Nullam faucibus luctus quam, a dapibus neque aliquam quis. Aenean sit amet risus vitae lectus fermentum dapibus. Integer sit amet porttitor nisl. Etiam ac elit purus. Sed vulputate hendrerit euismod. Sed accumsan sem at eros tempor volutpat. Nam iaculis, leo sit amet viverra placerat, ante tortor fringilla erat, ac finibus nunc purus et lectus. Ut eu justo vulputate, tempus odio sed, mattis felis. Proin mollis dolor at sapien condimentum lobortis. Praesent non massa elementum, rutrum dui sit amet, feugiat velit. In a felis sit amet quam ultrices dignissim. Ut efficitur velit at purus placerat, eu finibus est pharetra. Aenean id molestie risus. Mauris gravida erat id diam condimentum viverra.
+## Let s Emirates, největším dopravním letadlem světa
+
+Čekají nás dva na sebe navazující lety. První z Prahy do Dubaje a druhý z Dubaje do Aucklandu, což je nejdelší let vůbec. Mezi lety máme deset hodin na přestup. Letět s Emirates má jednu obrovskou výhodu - o každého je staráno jako v bavlnce. Máme tak všichni, co takto přestupují zajištěný hotel přímo na letišti. Načerpáme tak alespoň síly na ten devatenáctihodinový let.
+
+Ti z vás, co by nás chtěli sledovat na radarech online, máme tato čísla letů:
+- EK 140 v 15:15 z Prahy do Dubaje,
+- EK 434 v 10:25 SAE času z Dubaje do Aucklandu.
+
+Prozatím se loučíme, jdeme rychle dobalit těch zbývajících pár kousků oblečení, co nám visí na sušáku, a letíme na letiště... :-)
