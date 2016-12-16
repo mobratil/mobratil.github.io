@@ -3,7 +3,7 @@ name: New Zealand Blog
 description: 'New Zealand blog of Erika & Martin'
 
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'http://yourdomain.com' # the base hostname & protocol for your site
+url: 'https://mobratil.github.io' # the base hostname & protocol for your site
 
 # Build settings
 markdown:            kramdown
@@ -17,7 +17,7 @@ paginate_path:       page/:num/
 author:
     name: 'Martin Obrátil'
     email: ''
-    uri: 'https://github.com/mobratil'
+    uri: 'https://mobratil.github.io'
 
 sass:
     sass_dir: _sass
@@ -31,11 +31,11 @@ defaults:
       values:
         reading_time: true
         # Meta
-        show_tags: true
-        show_categories: true
+        show_tags: false
+        show_categories: false
         # Social
-        share_buttons: true
-        disqus: true
+        share_buttons: false
+        disqus: false
 
 gems:
     - jekyll-feed
