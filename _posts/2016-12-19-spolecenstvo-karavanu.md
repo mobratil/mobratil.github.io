@@ -22,6 +22,10 @@ pozn. Po cestě jsme narazili na křižovatku, kdy na naší straně byla značk
 
 Hned při prvním parkování jsme se vcelku slušně zapotili. Já jsem totiž neodhadla délku vozu a radius, který je nutný k tomu, abychom zaparkovali do mnou vybraného místa (pozn. to místo bylo ale jediné volné). Martin to vzal ale jako výzvu a rozhodl se, že se tam vejdeme. Musím říct, že po tom, co jsme tam předvedli a že kvůli nám muselo nakonec jedno auto vyparkovat, jsme se po zaparkování raději rozhodli rychle opustit parkoviště a jít na procházku.
 
+<a href="/assets/posts/3/IMG_0072.JPG" title="The Cleaner">
+	<img src="/assets/posts/3/thumbs/IMG_0072.JPG" width="75" height="75">
+</a>
+
 Konečně jsme viděli oceán! Došli jsme do zátoky Stingray Bay, kterou od Cathedral Cove dělí pouze výběžek skály zasahující do oceánu. Po cestě jsme potkali několik koz, které se s námi nechtěly kamarádit. Na písčité pláži bylo hodně vyplavených fialových medúz. Jedna byla dokonce asi metr vysoko na skále. Došlo nám tedy, že je odliv a že je pláž v době přílivu téměř zatopená. Sedli jsme si na písek a vychutnávali tu pohodu. Nevadilo ani, že bylo pod mrakem, protože i tak bylo příjemně teplo a alespoň jsme měli čas na aklimatizaci.
 
 Na Coromandel Cove jsme se rozhodli, že ten den nedojdeme a že si půjdeme raději udělat večeři. Výlet k tomuto nádhernému přírodnímu úkazu s jeskyní, do které se dá vplout, jsme si tak naplánovali na další den na mořských dvojkajacích v malé skupině s průvodcem. Vyrážet budeme v 08:45 hodin ráno z pláže Hahei Beach a zpátky se vrátíme po třech a půl hodinách pádlování a pauze na občerstvení na pláži u Coromandel Cove.
