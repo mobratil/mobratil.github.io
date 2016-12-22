@@ -22,7 +22,7 @@ pozn. Po cestě jsme narazili na křižovatku, kdy na naší straně byla značk
 
 Hned při prvním parkování jsme se vcelku slušně zapotili. Já jsem totiž neodhadla délku vozu a radius, který je nutný k tomu, abychom zaparkovali do mnou vybraného místa (pozn. to místo bylo ale jediné volné). Martin to vzal ale jako výzvu a rozhodl se, že se tam vejdeme. Musím říct, že po tom, co jsme tam předvedli a že kvůli nám muselo nakonec jedno auto vyparkovat, jsme se po zaparkování raději rozhodli rychle opustit parkoviště a jít na procházku.
 
-<a href="/assets/posts/3/IMG_0072.JPG" title="The Cleaner">
+<a href="/assets/posts/3/IMG_0072.JPG" title="Konečně u moře">
 	<img src="/assets/posts/3/thumbs/IMG_0072.JPG" width="75" height="75">
 </a>
 
@@ -34,4 +34,6 @@ Teď je 05:22 hodin ráno a já trpím nedospavostí. Martin tu vedle mě spokoj
 
 Za zpěvu ptáčků, kteří pomalu vítají nový den, se pro teď loučíme :-)
 
-ß
+<a href="/assets/posts/3/IMG_0066.JPG" title="Menší selfie">
+	<img src="/assets/posts/3/thumbs/IMG_0066.JPG" width="75" height="75">
+</a>

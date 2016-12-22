@@ -9,7 +9,9 @@ thumb: /assets/posts/1/IMG_0010_THUMB.JPG
 
 Po několikaměsíčním plánování je tu konečně den "L" neboli den dlouhého letu do neznáma až tam, kde se voda ve vaně točí obráceným směrem a na nebi neuvidíte Velký a Malý Vůz, ale Jižní Kříž. Jedeme konečně do toho Kraje, kde dobro vítězí nad zlem. Ne, že by tomu tady bylo jinak, ale tam měli Jeden prsten, který bylo nutné vhodit do Hory osudu, aby bylo zase vše jak má. Byla k tomu zapotřebí celá trilogie filmu Pán prstenů, který byl natočen podle skutečné události. Stejně jako hlavní protagonisti filmu se i my chystáme na velké poznávání a dobrodružství.
 
-![Sample Image](/assets/posts/1/IMG_0010.JPG)
+<a href="/assets/posts/1/IMG_0010.JPG" title="Máme sbaleno">
+	<img src="/assets/posts/1/IMG_0010_THUMB.JPG" width="75" height="75">
+</a>
 
 ## Let s Emirates, největším dopravním letadlem světa
 
