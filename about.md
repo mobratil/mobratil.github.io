@@ -1,18 +1,7 @@
 ---
 layout: page
-title: About
+title: O blogu
 permalink: /about/
 ---
 
-Travelogue is a minimal, single-column Jekyll theme that provides an immersive read experience for your readers.
-
-![Post](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Post.png)
-
-## Getting Started
-The theme provides a complete Jekyll setup. Download it and start the Jekyll server.
-
-    git clone https://github.com/SalGnt/Travelogue.git
-    cd Travelogue
-    jekyll serve
-
-Visit the [Jekyll website](http://jekyllrb.com/) for more information.
+Toto je cestovní blog Martina a Eriky vytvořený během cest po Novém Zélandu - 16.12.2016 až 14.1.2017.
