@@ -17,8 +17,8 @@ Na vodní taxik nás k našemu údivu nalodili na souši, zapřáhli nás za tra
 	<img src="/assets/posts/11/thumbs/IMG_1936.JPG">
 </a>
 
-<a href="/assets/posts/11/IMG_0552.JPG" title="pláž Anchorage">
-	<img src="/assets/posts/11/thumbs/IMG_0552.JPG">
+<a href="/assets/posts/11/IMG_0558.JPG" title="pláž Anchorage">
+	<img src="/assets/posts/11/thumbs/IMG_0558.JPG">
 </a>
 
 Po vysazení na pláži jsme se vykoupali v moři, dali malou svačinku a vyrazili na trasu dlouhou 12,4 km. První kopec byl v tom vedru hodně obtížný, ale zbytek trasy vedl převážně po vrstevnici ve stínu stromů a palem, a tak byla cesta opravdu moc příjemná. Každou chvilku jsme stavěli ať už na pauzu, pouštění drona nebo jen kochání se.
