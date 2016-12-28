@@ -16,7 +16,7 @@ Na úterní den jsme měli naplánovanou cestu na pláž Split Apple Rock a jak 
 	<img src="/assets/posts/12/thumbs/IMG_2039.JPG">
 </a>
 
-Než jsme se na pláž ale dostali, čekala nás strastiplná cesta. Na mapě to vypadalo, že je pláž hned za výběžkem místa, kde jsme kempovali, a tak jsme vyrazili pěšky. Zhruba po kilometru a půl jsme pochopili, že to zase až tak blízko nebude, ale že to dojdeme. Jelikož byl odliv, rozhodli jsme se zkrátit si cestu přes vyschlou pláž, na konci které jsme narazili na dřevěné schody schované v houští, které vedly přesně na ten kopec, na který jsme se potřebovali vyšplhat, abychom ho poté mohli zase sejít. Schody byly ale označené cedulí "soukromý pozemek". Martinovi se tam moc nechtělo, ale já jsem odmítala jít zpátky a pak po silnici zdlouhavou cestou, a tak jsme se proplížili něčí zahradou.
+Než jsme se na pláž ale dostali, čekala nás strastiplná cesta. Na mapě to vypadalo, že je pláž hned za výběžkem místa, kde jsme kempovali, a tak jsme vyrazili pěšky. Zhruba po kilometru a půl jsme pochopili, že to zase až tak blízko nebude, ale rozhodli jsme se, že to dojdeme. Jelikož byl odliv, rozhodli jsme se zkrátit si cestu přes vyschlou pláž, na konci které jsme narazili na dřevěné schody schované v houští, které vedly přesně na ten kopec, na který jsme se potřebovali vyšplhat, abychom ho poté mohli zase sejít. Schody byly ale označené cedulí "soukromý pozemek". Martinovi se tam moc nechtělo, ale já jsem odmítala jít zpátky a pak po silnici zdlouhavou cestou, a tak jsme se proplížili něčí zahradou.
 
 <a href="/assets/posts/12/IMG_2044.JPG" title="Split Apple">
 	<img src="/assets/posts/12/thumbs/IMG_2044.JPG">
@@ -32,7 +32,7 @@ Pláž jako taková byla moc pěkná. Vzali jsme si s sebou dvě malé lahvičky
 	<img src="/assets/posts/12/thumbs/IMG_2046.JPG">
 </a>
 
-Cestou zpět do kempu jsme to vzali opět přes něčí soukromý pozemek :-)
+Cestou zpět do kempu jsme to vzali opět přes něčí soukromý pozemek, tentokrát na Martinovo přání :-)
 
 Na středu jsme měli naplánovaný přejezd na severozápadní cíp národního parku. Zavolali jsme do kempu, do kterého jsme měli namířeno, abychom si ověřili, zda je volná kapacita, ale bohužel jsme dostali informaci, že až do 6.1. mají úplně plno. Je to ten kemp, kam jezdí hlavně místňáci.
 
