@@ -7,9 +7,9 @@ backgrounds:
 thumb: /assets/posts/13/thumbs/IMG_0763.JPG
 ---
 
-Naše další putování nás zavedlo k "Lívancovým skalám" na severozápadním pobřeží Jižního ostrova. Nejhorší na tom tady je to, že si sousedi naproti v karavanu dělají stylově lívance a hrozně to tu voní a my nemáme mouku, abychom si je taky udělali...
+Naše další putování nás zavedlo k "Lívancovým skalám" (Pancake Rocks) na severozápadním pobřeží Jižního ostrova. Nejhorší na tom tady je to, že si sousedi naproti v karavanu dělají stylově lívance a hrozně to tu voní a my nemáme mouku, abychom si je taky udělali...
 
-<a href="/assets/posts/13/IMG_0758.JPG" title="Selfie na Pancake rocks">
+<a href="/assets/posts/13/IMG_0758.JPG" title="Selfie na Pancake Rocks">
 	<img src="/assets/posts/13/thumbs/IMG_0758.JPG">
 </a>
 
@@ -36,6 +36,6 @@ Jinak Martin tu teď spokojeně popíjí nějaké novozélandské pivo, má toti
 
 No a já jsem samozřejmě také moc spokojená, protože tu Martínek sedí hned vedle mě :-)
 
-<a href="/assets/posts/13/DJI_0097.JPG" title="Pancake rocks">
+<a href="/assets/posts/13/DJI_0097.JPG" title="Pancake Rocks z drona">
 	<img src="/assets/posts/13/thumbs/DJI_0097.JPG">
 </a>
