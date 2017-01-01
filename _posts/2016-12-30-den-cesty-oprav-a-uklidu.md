@@ -9,7 +9,9 @@ thumb: /assets/posts/14/thumbs/IMG_2176.JPG
 
 Po několika dnech strávených s nefunkční vodní pumpou v době svátků, jsme konečně poprvé jeli kolem otevřeného servisu ve městě Greymouth, což v překladu znamená "šedá ústa", a tak jsme tam zastavili. Páni opraváři vypadali celkem optimisticky, a tak nás na hodinu a půl vypustili do města, že to do té doby opraví.
 
-Město Greymouth je zajímavé industriální město, ve kterém jsme si stihli dát akorát kávu a horkou čokoládu ve velmi příjemné místní kavárně. Bohužel nám bylo po návratu do servisu sděleno, že pumpa je neopravitelná a že jí budou muset celou vyměnit na naší další zastávce ve větším městě, tedy zřejmě v Queenstownu, kam by měla pumpa dorazit z města Christchurch. Bohužel se ale neví kdy... :-D
+Město Greymouth je zajímavé industriální město, ve kterém jsme si stihli dát akorát kávu a horkou čokoládu ve velmi příjemné místní kavárně.
+
+Bohužel nám bylo po návratu do servisu sděleno, že pumpa je neopravitelná a že jí budou muset celou vyměnit na naší další zastávce ve větším městě, tedy zřejmě v Queenstownu, kam by měla pumpa dorazit z města Christchurch - neví se ale kdy... :-D
 
 <a href="/assets/posts/14/IMG_2176.JPG" title="Čokoláda a Flat White v kavárně v Graymouthu">
 	<img src="/assets/posts/14/thumbs/IMG_2176.JPG">
