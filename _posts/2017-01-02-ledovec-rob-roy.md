@@ -26,16 +26,16 @@ Na turistickou trasu jsme se vydali vybaveni svačinkou, tentokrát již i plá�
 
 Vyhlídky byly celkem dvě - Lower Valley Lookout (spodní vyhlídka) a Upper Valley Lookout (horní vyhlídka). Samozřejmě jsme se nespokojili se spodní vyhlídkou. Na konci cesty u horní vyhlídky jsme byli odměněni neuvěřitelným výhledem na několik vodopádů, které tekly zpod ledovce na vrcholu hory před námi.
 
+<a href="/assets/posts/17/IMG_1066.JPG" title="Selfie">
+	<img src="/assets/posts/17/thumbs/IMG_1066.JPG">
+</a>
+
 <a href="/assets/posts/17/DJI_0016.JPG" title="Rob Roy Glacier">
 	<img src="/assets/posts/17/thumbs/DJI_0016.JPG">
 </a>
 
 <a href="/assets/posts/17/IMG_1071.JPG" title="Rob Roy Glacier">
 	<img src="/assets/posts/17/thumbs/IMG_1071.JPG">
-</a>
-
-<a href="/assets/posts/17/IMG_1066.JPG" title="Selfie">
-	<img src="/assets/posts/17/thumbs/IMG_1066.JPG">
 </a>
 
 <a href="/assets/posts/17/IMG_2320.JPG" title="Ranger Martin">
