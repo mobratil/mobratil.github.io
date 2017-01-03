@@ -13,6 +13,10 @@ Queenstown je samozřejmě krásné městečko pokud od něj neočekáváte prá
 
 Po zakempování jsme si rozdělili s Martinem úkoly. Já jsem šla dělat oběd a Martin šel vymyslet plán na odpoledne. Musím říct, že vybral krásný výlet lodí po tmavě modrém jezeře Wakatipu a pak jsme si zašli na mexickou večeři a že mexická jídla tady opravdu umí na jedničku.
 
+<a href="/assets/posts/18/3.JPG" title="Na lodi">
+	<img src="/assets/posts/18/thumbs/3.JPG">
+</a>
+
 <a href="/assets/posts/18/IMG_1145.JPG" title="Erika na lodi">
 	<img src="/assets/posts/18/thumbs/IMG_1145.JPG">
 </a>
