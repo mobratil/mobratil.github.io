@@ -30,6 +30,10 @@ Vyhlídky byly celkem dvě - Lower Valley Lookout (spodní vyhlídka) a Upper Va
 	<img src="/assets/posts/17/thumbs/DJI_0016.JPG">
 </a>
 
+<a href="/assets/posts/17/IMG_1071.JPG" title="Rob Roy Glacier">
+	<img src="/assets/posts/17/thumbs/IMG_1071.JPG">
+</a>
+
 <a href="/assets/posts/17/IMG_1066.JPG" title="Selfie">
 	<img src="/assets/posts/17/thumbs/IMG_1066.JPG">
 </a>
