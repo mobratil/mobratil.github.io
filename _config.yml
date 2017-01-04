@@ -15,7 +15,7 @@ paginate:            8
 paginate_path:       page/:num/
 
 author:
-    name: 'Martin Obrátil'
+    name: 'Martin & Erika'
     email: ''
     uri: 'https://mobratil.github.io'
 
@@ -40,3 +40,4 @@ defaults:
 gems:
     - jekyll-feed
     - jekyll-sitemap
+    - jekyll-paginate
