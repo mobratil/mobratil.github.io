@@ -9,7 +9,7 @@ thumb: /assets/posts/19/thumbs/IMG_2364.JPG
 
 Milford Sound se nachází v odlehlé jihozápadní části Jižního Ostrova. Vyrazili jsme tak ještě před cestou na nákup potravin, abychom měli dostatek jídla na celou dobu, co v Milford Soundu budeme pro případ, že by tam nebyl žádný obchod, ani jiná možnost stravování.
 
-V Milford Soundu není ani možnost natankovat - poslední možnost natankovat byla městečku v Te Anau, které je vzdálené 120 km. Je tudíž potřeba počítat s cestou tam i zpět. Kousek před Milford Soundem jsme viděli akorát "emergency petrol" - neboli pouze v případě nouze. Cena tam raději nebyla ani uvedená. O telefonním signálu se tam už vůbec nedá mluvit.
+V Milford Soundu není ani možnost natankovat - poslední možnost natankovat byla ve městečku Te Anau, které je vzdálené 120 km. Je tudíž potřeba počítat s cestou tam i zpět. Kousek před Milford Soundem jsme viděli akorát "emergency petrol" - neboli pouze v případě nouze. Cena tam raději nebyla ani uvedená. O telefonním signálu se tam už vůbec nedá mluvit.
 
 Ale abychom se vrátili zpět k cestě... Navigace nám ukazovala, že máme před sebou zhruba 300 km cesty a kolem 5 hodin jízdy, což se nám zdálo divné, a tak jsme si říkali, co nás to zase asi tak čeká za silnici. Nakonec jsme zjistili, že navigace snad počítá i s tím, že se pořád staví na krásné vyhlídky a pak také další důležitou údržbu vozu jako je smutné vyndavání mrtvého vrabčáka z předního znaku auta, kam se bohužel vklínil, když nestihnul překličkovat před autem. Naše auto tak dostalo křídla, která přesně tvořila "véčko" ve znaku "VW". Uznáváme, že se jedná o trošku černý humor... :-( Pro otrlejší nabízíme <a href="/assets/posts/19/IMG_2372.JPG" title="Volkswagen dává křídla :-(">odkaz</a>.
 

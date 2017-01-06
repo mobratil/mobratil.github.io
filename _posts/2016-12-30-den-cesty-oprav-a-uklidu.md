@@ -33,7 +33,7 @@ Odpoledne jsem dorazili do kempu v malém městečku Okarito, které je kousek o
 
 pozn.I: Konečně jsme také udělali generální skoro "novoroční úklid", tak si zase přijdeme trošku jako lidi :-)
 
-pozn.II: Zajímavé na tomto kempu je to, že registraci si každý má udělat sám, peníze vložit do připraveného pytlíčku a vhodit do kasičky. Odměnou za poplatek je možnost kempování v krásné lokalitě kousek od moře, super společenská místnost se zásuvkami na dobíjení čehokoliv co kdo potřebuje, hezké koupelny s teplou vodou, čisté záchody a malá kuchyňka a možností vypůjčení grilovacích propriet. Samozřejmě se chystáme zítra ráno při odjezdu zaplatit, tento kemp za to opravdu stojí a to je ten levnější.
+pozn.II: Zajímavé na tomto kempu je to, že registraci si každý má udělat sám, peníze vložit do připraveného pytlíčku a vhodit do kasičky. Odměnou za poplatek je možnost kempování v krásné lokalitě kousek od moře, super společenská místnost se zásuvkami na dobíjení čehokoliv co kdo potřebuje, hezké koupelny s teplou vodou, čisté záchody a malá kuchyňka a možností vypůjčení grilovacích propriet. Samozřejmě se chystáme zítra ráno při odjezdu zaplatit, tento kemp za to opravdu stojí a to je jeden z levnějších.
 
 <a href="/assets/posts/14/IMG_2184.JPG" title="Vstup do kempu">
 	<img src="/assets/posts/14/thumbs/IMG_2184.JPG">
