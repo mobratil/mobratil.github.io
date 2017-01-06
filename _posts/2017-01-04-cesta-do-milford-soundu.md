@@ -7,7 +7,7 @@ backgrounds:
 thumb: /assets/posts/19/thumbs/IMG_2364.JPG
 ---
 
-Ráno jsme vyrazili na nákup potravin, abychom měli dostatek jídla na celou dobu, co budeme v Milford Soundu pro případ, že by tam nebyl žádný obchod, ani jiná možnost stravování. Milford Sound je totiž v odlehlé jihozápadní oblasti Jižního Ostrova, kde není ani možnost natankovat diesel či benzín. Po cestě jsme viděli akorát jednu možnost tankování, kde bylo napsáno "pouze v případě nouze". Cena tam nebyla raději uvedená. O telefonním signálu se tady už vůbec nedá mluvit. Jediné místo, kde je možné se připojit, je na recepci v kempu, kde mají asi vlastní dokrývač.
+Ráno jsme vyrazili na nákup potravin, abychom měli dostatek jídla na celou dobu, co budeme v Milford Soundu pro případ, že by tam nebyl žádný obchod, ani jiná možnost stravování. Milford Sound je totiž v odlehlé jihozápadní oblasti Jižního Ostrova, kde není ani možnost natankovat diesel či benzín. Po cestě jsme viděli akorát jednu možnost tankování, kde bylo napsáno "pouze v případě nouze". Cena tam nebyla raději uvedená. O telefonním signálu se tady už vůbec nedá mluvit.
 
 Ale abychom se vrátili zpět k cestě... Navigace nám ukazovala necelých 300 km cesty a cca 5 hodin jízdy, což se nám zdálo divné, a tak jsme si říkali, co nás to zase asi tak čeká za silnici. Nakonec jsme zjistili, že navigace snad počítá i s tím, že se pořád staví na krásné vyhlídky a pak také další důležitou údržbu vozu jako je smutné vyndavání mrtvého vrabčáka z předního znaku auta, kam se bohužel vklínil, když nestihnul překličkovat před autem.
 
@@ -17,7 +17,7 @@ Cestou jsme viděli jediné alpínské papoušky na světě - nestory kea - zvan
 	<img src="/assets/posts/19/thumbs/IMG_2380.JPG">
 </a>
 
-Náš průvodce praví, že Milford Sound je překvapivě nejkrásnější za deště, kdy se na svazích objevují spontánní vodopády. Na tomto místě prší průměrně 180 dní v roce, kdy tu celkem spadne neuvěřitelných 7 metrů srážek. Když jsme ale dorazili na místo, svítilo tady krásně sluníčko a vůbec jsme se nezlobili, že neprší.
+Náš průvodce praví, že Milford Sound je překvapivě nejkrásnější za deště, kdy se na svazích objevují spontánní vodopády. Na tomto místě prší průměrně 180 dní v roce, kdy tu celkem spadne neuvěřitelných 7 metrů srážek. Loňský rok byl dokonce nadprůměrný - pršelo 200 dní a srážek spadlo 10,1 metrů. Když jsme ale dorazili na místo, svítilo tady krásně sluníčko a vůbec jsme se nezlobili, že neprší.
 
 Zítra se chystáme na dvou a půl hodinovou plavbu po fjordu na velké plachetnici. Počasí by nám snad mělo také přát, tak už se těšíme. Martin by byl nejraději, kdyby polovinu plavby svítilo sluníčko a polovinu pršelo, abychom viděli ty spontánní vodopády a také duhu, tak uvidíme, jestli mu to vyjde :-)
 
