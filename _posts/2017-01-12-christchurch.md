@@ -29,7 +29,7 @@ Ještě ve středu večer jsme dorazili do kempu v centru města Christchurch a 
 
 Nedalo nám to a museli jsme sem vložit něco k tomuto historickému milníku, který se jistojistě zapsal do duší všech lidí, kteří zde žijí.
 
-Ještě pozdě večer téhož dne jsme začali balit kufry a uklízet obytňák, aby byl připravený k předání následující den ráno. Naposledy jsme si v něm ustlali a ráno ho vrátili společnosti Apollo. Více ke statistikám zjištěných, opravenýcha neopravených vad a také k poškození, ke kterým jsme sami přispěli v článku, který bude nadcházet.
+Ještě pozdě večer téhož dne jsme začali balit kufry a uklízet obytňák, aby byl připravený k předání následující den ráno. Naposledy jsme si v něm ustlali a ráno ho vrátili společnosti Apollo. Více ke statistikám zjištěných, opravených a neopravených vad a také k poškození, ke kterým jsme sami přispěli v článku, který bude nadcházet.
 
 Poslední noc před odletem jsme si zajistili v Bed & Breakfast s názvem Water Lily Garden kousek od letiště. Překvapilo nás, jak moc hezké prostředí na nás čekalo :-)
 
