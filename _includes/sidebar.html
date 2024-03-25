@@ -7,9 +7,8 @@
         <a href="{{ site.baseurl }}/"><h2 class="site-title">{{ site.name }}</h2></a>
         <ul class="sb-menu">
         {% assign pages_list = site.pages | sort:"url" %}
-        {% assign filtered_pages = pages_list | where_exp: "page", "page.url contains 'bower_components' | not" %}
         {% for node in filtered_pages %}
-            {% if node.title != null %}
+            {% if node.url != null %}
                 {% if node.layout == "page" %}
                 <li class="sb-close {% if page.url == node.url %}active{% endif %}">
                     <a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
